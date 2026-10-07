@@ -38,7 +38,7 @@ public class Club
         //Q2
         return members.size();
     }  
-     //q4
+     //Q4
 /**
 * Determine the number of members who joined in the
 * given month.
@@ -62,7 +62,7 @@ else{
     return count ;
 }
 }
-//q5
+//Q5
 /**
 * Remove from the club's collection all members who
 * joined in the given month, and return them stored
@@ -72,6 +72,6 @@ else{
 * @return The members who joined in the given month and year.
 */
 public ArrayList<Membership> purge(int month, int year){
-    
+    purge.get month;
 }
 
